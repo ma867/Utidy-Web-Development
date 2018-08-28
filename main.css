@@ -1,0 +1,63 @@
+@font-face{
+   font-family: "matchmaker";
+   src:url("font/&Matchmaker.ttf");
+}
+@font-face{
+   font-family: "geo";
+   src:url("font/Rounded_Elegance.ttf");
+}
+.navbar-brand{
+	font-family: matchmaker;
+	font-size: 100px;
+	padding-right: 80px;
+}
+.nav-item a{
+	font-family:geo;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.carousel-inner img {
+	width: 100%; 
+	height: 730px;
+}
+.carousel-caption h1{
+	font-family: matchmaker;
+}
+.carousel-caption p{
+	font-size: 150%;
+	font-family:geo;
+	font-style: bold;
+}
+.col-sm-5{
+	background-color:white; 
+	color: black;
+	text-align: center; 
+	padding-top:50px; 
+	padding-bottom: 40px; 
+	padding-right: 40px; 
+	padding-left: 40px;"
+}
+.col-sm-5 h1{
+	font-family: matchmaker;
+	font-size: 500%;
+}
+.col-sm-5 p{
+	font-family: geo;
+	font-size: 125%;
+	padding-right: 60px; 
+	padding-left: 60px;"
+}
+
+footer{
+	background-color:rgba(192,192,192,0.3);
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+footer a{
+	font-family:geo;
+	color: black;
+}
+
+	
